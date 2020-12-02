@@ -1,2 +1,4 @@
 # FarmCompAnalyzer
-ENSC 26 Project
+ENSC 26 Project  
+
+See pdf manual for documentation.
