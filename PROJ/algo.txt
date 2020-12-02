@@ -1,0 +1,10 @@
+How to isolate single channel colors
+
+-turn to grayscale with specific channel bias
+
+>must consider effect of other colors to determine true color
+>use colormatrix object to convert to grayscale
+>create correct equation to get proper grayscale bias
+>evaluate grayscale image such that it can highlight specific color
+
+>only create algo for dry soil and grass

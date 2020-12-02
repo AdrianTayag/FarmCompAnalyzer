@@ -1,0 +1,32 @@
+D:\Users\vince\Desktop\PROJ\PROJ\bin\Debug\PROJ.exe
+D:\Users\vince\Desktop\PROJ\PROJ\bin\Debug\PROJ.pdb
+D:\Users\vince\Desktop\PROJ\PROJ\bin\Debug\PROJ.xml
+D:\Users\vince\Desktop\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\vince\Desktop\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\vince\Desktop\PROJ\PROJ\obj\x86\Debug\PROJ.vbproj.GenerateResource.Cache
+D:\Users\vince\Desktop\PROJ\PROJ\obj\x86\Debug\PROJ.exe
+D:\Users\vince\Desktop\PROJ\PROJ\obj\x86\Debug\PROJ.xml
+D:\Users\vince\Desktop\PROJ\PROJ\obj\x86\Debug\PROJ.pdb
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.exe
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.xml
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.pdb
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\bin\Debug\PROJ.exe
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\bin\Debug\PROJ.pdb
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\bin\Debug\PROJ.xml
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.vbproj.GenerateResource.Cache
+C:\Users\MendozaAllen\Downloads\PROJ\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.frmPieChart.resources
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.exe
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.xml
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.pdb
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\bin\Debug\PROJ.exe
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\bin\Debug\PROJ.pdb
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\bin\Debug\PROJ.xml
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.frmPieChart.resources
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\vince\Downloads\PROJ (1)\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.vbproj.GenerateResource.Cache
+D:\Users\vince\Downloads\Proj 5-16\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.exe
+D:\Users\vince\Downloads\Proj 5-16\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.xml
+D:\Users\vince\Downloads\Proj 5-16\PROJ\PROJ\PROJ\obj\x86\Debug\PROJ.pdb
